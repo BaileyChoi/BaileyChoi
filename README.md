@@ -38,9 +38,9 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **haileychoi@gmail.com**
+- 📧 Email: **hyerhim.dev@gmail.com**
 - 🌐 Portfolio: 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: [hyerhim-choi](https://www.linkedin.com/in/hyerhim-choi)
 
 ---
 
